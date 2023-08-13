@@ -1,3 +1,3 @@
 ### Task Manager
 
-A task manager API that persists tasks to a MongoDB datastore
+A task manager API that persists data to a MongoDB datastore
